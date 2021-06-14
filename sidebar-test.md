@@ -1,4 +1,4 @@
-## Sidebar Test
+# Sidebar Test
 <table align="right">
   <tr>
     <th>
