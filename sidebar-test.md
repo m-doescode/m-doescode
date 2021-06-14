@@ -73,3 +73,30 @@ Reflection: Semi-successful. There is no gap between the sidebar and the code. C
 <img width=125 height=80 src="https://upload.wikimedia.org/wikipedia/commons/f/f1/2ChocolateChipCookies.jpg" />
 
 Reflection: Success.
+
+## Compact version
+
+<pre>
+
+<table align="right"><tr><th>
+      Sidebar
+</th></tr><tr><td>
+      <!-- Your links here -->
+      <a href="https://www.example.com/">My Link</a>
+      <br/>
+      <a href="https://www.google.com/">Google</a>
+</td></tr></table>
+
+</pre>
+
+### Without anything
+
+<pre>
+
+<table align="right"><tr><th>
+      Sidebar
+</th></tr><tr><td>
+      <!-- Your links here -->
+</td></tr></table>
+
+</pre>
