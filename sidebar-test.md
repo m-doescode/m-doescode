@@ -76,8 +76,7 @@ Reflection: Success.
 
 ## Compact version
 
-<pre>
-
+```
 <table align="right"><tr><th>
       Sidebar
 </th></tr><tr><td>
@@ -86,17 +85,15 @@ Reflection: Success.
       <br/>
       <a href="https://www.google.com/">Google</a>
 </td></tr></table>
-
-</pre>
+```
 
 ### Without anything
 
-<pre>
 
+```
 <table align="right"><tr><th>
       Sidebar
 </th></tr><tr><td>
       <!-- Your links here -->
 </td></tr></table>
-
-</pre>
+```
