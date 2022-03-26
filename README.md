@@ -1,8 +1,12 @@
-Hello, I like coding but am not the best.
+Hi, I'm m-doescode.
 
+I play video games obviously and have a passion for coding.
 
-💻 Languages I'm familiar with: ☕ Java, 🌑 Lua
+I prefer to use Python, Java, or C++ whichever one is best for the scenario.
 
-🙂 Languages I'm fairly good at: © C++, 🐍 Python
+I do:
+* Minecraft modding in Forge
+* Win32 apps and libraries
+* Java libraries
 
-😕 Languages I can work with: ☕📜 JavaScript
+And I contribute every once in a while if I find something patchworthy.
